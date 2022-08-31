@@ -17,10 +17,11 @@
 - [Trident: Efficient 4PC Framework for Privacy Preserving Machine Learning](https://www.ndss-symposium.org/ndss-paper/trident-efficient-4pc-framework-for-privacy-preserving-machine-learning/), 	Harsh Chaudhari, Rahul Rachuri, Ajith Suresh, NDSS2020
 - [BLAZE: Blazing Fast Privacy-Preserving Machine Learning](https://www.ndss-symposium.org/ndss-paper/blaze-blazing-fast-privacy-preserving-machine-learning/), 	Arpita Patra, Ajith Suresh, NDSS2020
 - [XONN: XNOR-based Oblivious Deep Neural Network Inference](https://www.usenix.org/conference/usenixsecurity19/presentation/riazi), M. Sadegh Riazi, Mohammad Samragh, Hao Chen, Kim Laine, Kristin E. Lauter, Farinaz Koushanfar, USENIX2019
-- [GAZELLE: A Low Latency Framework for Secure Neural Network Inference](GAZELLE: A Low Latency Framework for Secure Neural Network Inference), Chiraag Juvekar, Vinod Vaikuntanathan, Anantha P. Chandrakasan, USENIX2018
-- [](),,
-- [](),,
-- [](),,
-- [](),,
+- [GAZELLE: A Low Latency Framework for Secure Neural Network Inference](https://www.usenix.org/conference/usenixsecurity18/presentation/juvekar), Chiraag Juvekar, Vinod Vaikuntanathan, Anantha P. Chandrakasan, USENIX2018
+- [Oblivious Neural Network Predictions via MiniONN transformations](https://eprint.iacr.org/2017/452),Jian Liu, Mika Juuti, Yao Lu, N. Asokan, CCS2017
+- [ABY3: A Mixed Protocol Framework for Machine Learning](https://eprint.iacr.org/2018/403), Payman Mohassel, Peter Rindal, CCS2018
+- [Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference](https://eprint.iacr.org/2019/524), Hao Chen, Wei Dai, Miran Kim, Yongsoo Song, CCS2019
+- [SecureML: A System for Scalable Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/396), Payman Mohassel, Yupeng Zhang, SP2017
+- 
 - [](),,
 - [](),,
