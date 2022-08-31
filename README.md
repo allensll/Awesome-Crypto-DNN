@@ -34,3 +34,8 @@
 - [TAPAS: Tricks to Accelerate (encrypted) Prediction As a Service](http://proceedings.mlr.press/v80/sanyal18a.html), Amartya Sanyal, Matt Kusner, Adria Gascon, Varun Kanade, ICML2018
 - [CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy](http://proceedings.mlr.press/v48/gilad-bachrach16.html), Ran Gilad-Bachrach, Nathan Dowlin, Kim Laine, Kristin Lauter, Michael Naehrig, John Wernsing, ICML2016
 
+
+- [SAFENet: A Secure, Accurate and Fast Neural Network Inference](https://openreview.net/forum?id=Cz3dbFm5u-), Qian Lou, Yilin Shen, Hongxia Jin, Lei Jiang, ICLR2021
+
+- [ENSEI: Efficient Secure Inference via Frequency-Domain Homomorphic Convolution for Privacy-Preserving Visual Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Bian_ENSEI_Efficient_Secure_Inference_via_Frequency-Domain_Homomorphic_Convolution_for_Privacy-Preserving_CVPR_2020_paper.html), Song Bian, Tianchen Wang, Masayuki Hiromoto, Yiyu Shi, Takashi Sato, CVPR2020
+- 
