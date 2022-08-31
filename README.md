@@ -1,1 +1,22 @@
 # Awesome-Cryptographic-DNN
+
+- [Sphinx: Enabling Privacy-Preserving Online Learning over the Cloud](https://ieeexplore.ieee.org/document/9833648), Han Tian, Chaoliang Zeng, Zhenghang Ren, Di Chai, Junxue ZHANG, Kai Chen, Qiang Yang, SP2022
+- [SecFloat: Accurate Floating-Point meets Secure 2-Party Computation](https://eprint.iacr.org/2022/322), Deevashwer Rathee, Anwesh Bhattacharya, Rahul Sharma, Divya Gupta, Nishanth Chandran, Aseem Rastogi, SP2022
+- [CryptGPU: Fast Privacy-Preserving Machine Learning on the GPU](https://eprint.iacr.org/2021/533), Sijun Tan, Brian Knott, Yuan Tian, David J. Wu, SP2021
+- [Pegasus: Bridging Polynomial and Non-polynomial Evaluations in Homomorphic Encryption](https://eprint.iacr.org/2020/1606), Wen-jie Lu, Zhicong Huang, Cheng Hong, Yiping Ma, Hunter Qu, SP2021
+- [SIRNN: A Math Library for Secure RNN Inference](https://eprint.iacr.org/2021/459), Deevashwer Rathee, Mayank Rathee, Rahul Kranti Kiran Goli, Divya Gupta, Rahul Sharma, Nishanth Chandran, Aseem Rastogi, SP2021
+- [CrypTFlow : Secure TensorFlow Inference](https://eprint.iacr.org/2019/1049), Nishant Kumar, Mayank Rathee, Nishanth Chandran, Divya Gupta, Aseem Rastogi, Rahul Sharma, SP2020
+- [CrypTFlow2: Practical 2-Party Secure Inference](https://eprint.iacr.org/2020/1002), Deevashwer Rathee, Mayank Rathee, Nishant Kumar, Nishanth Chandran, Divya Gupta, Aseem Rastogi, Rahul Sharma, CCS2020
+- [GForce: GPU-Friendly Oblivious and Rapid Neural Network Inference](https://www.usenix.org/conference/usenixsecurity21/presentation/ng), Lucien K. L. Ng, Sherman S. M. Chow, USENIX2021
+- [ABY2.0: Improved Mixed-Protocol Secure Two-Party Computation](https://www.usenix.org/conference/usenixsecurity21/presentation/patra), Arpita Patra, Thomas Schneider, Ajith Suresh, Hossein Yalame, USENIX2021
+- [Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security](https://www.usenix.org/conference/usenixsecurity21/presentation/dalskov), Anders P. K. Dalskov, Daniel Escudero, Marcel Keller, USENIX2021
+- [Muse: Secure Inference Resilient to Malicious Clients](https://www.usenix.org/conference/usenixsecurity21/presentation/lehmkuhl), Ryan Lehmkuhl, Pratyush Mishra, Akshayaram Srinivasan, Raluca Ada Popa, USENIX2021
+- [SWIFT: Super-fast and Robust Privacy-Preserving Machine Learning](https://www.usenix.org/conference/usenixsecurity21/presentation/koti),	Nishat Koti, Mahak Pancholi, Arpita Patra, Ajith Suresh, USENIX2021
+- [Delphi: A Cryptographic Inference Service for Neural Networks](https://www.usenix.org/conference/usenixsecurity20/presentation/mishra), Pratyush Mishra, Ryan Lehmkuhl, Akshayaram Srinivasan, Wenting Zheng, Raluca Ada Popa, USENIX2020
+- [GALA: Greedy ComputAtion for Linear Algebra in Privacy-Preserved Neural Networks](https://www.ndss-symposium.org/ndss-paper/gala-greedy-computation-for-linear-algebra-in-privacy-preserved-neural-networks/), Qiao Zhang, Chunsheng Xin, Hongyi Wu, NDSS 2021
+- [Trident: Efficient 4PC Framework for Privacy Preserving Machine Learning](https://www.ndss-symposium.org/ndss-paper/trident-efficient-4pc-framework-for-privacy-preserving-machine-learning/), 	Harsh Chaudhari, Rahul Rachuri, Ajith Suresh, NDSS2020
+- [BLAZE: Blazing Fast Privacy-Preserving Machine Learning](https://www.ndss-symposium.org/ndss-paper/blaze-blazing-fast-privacy-preserving-machine-learning/), 	Arpita Patra, Ajith Suresh, NDSS2020
+- [](),,
+- [](),,
+- [](),,
+- [](),,
