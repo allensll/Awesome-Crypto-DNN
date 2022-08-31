@@ -25,3 +25,5 @@
 - [AriaNN: Low-Interaction Privacy-Preserving Deep Learning via Function Secret Sharing](https://petsymposium.org/popets/2022/popets-2022-0015.php), Théo Ryffel, Pierre Tholoniat, David Pointcheval, Francis R. Bach, PETS2022, [code](https://github.com/LaRiffle/ariann)
 - [SecureNN: 3-Party Secure Computation for Neural Network Training](https://petsymposium.org/popets/2019/popets-2019-0035.php), Sameer Wagh, Divya Gupta, Nishanth Chandran, PETS2019, [code](https://github.com/snwagh/securenn-public)
 - [Falcon: Honest-Majority Maliciously Secure Framework for Private Deep Learning](https://petsymposium.org/popets/2021/popets-2021-0011.php),	Sameer Wagh, Shruti Tople, Fabrice Benhamouda, Eyal Kushilevitz, Prateek Mittal, Tal Rabin, PETS2021, [code](https://github.com/snwagh/falcon-public/)
+- [CrypTen: Secure Multi-Party Computation Meets Machine Learning](https://proceedings.neurips.cc/paper/2021/hash/2754518221cfbc8d25c13a06a4cb8421-Abstract.html), Brian Knott, Shobha Venkataraman, Awni Hannun, Shubho Sengupta, Mark Ibrahim, Laurens van der Maaten, NeurIPS2021, [code](https://github.com/facebookresearch/CrypTen)
+- 
