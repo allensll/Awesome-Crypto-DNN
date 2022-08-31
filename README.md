@@ -23,5 +23,5 @@
 - [Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference](https://eprint.iacr.org/2019/524), Hao Chen, Wei Dai, Miran Kim, Yongsoo Song, CCS2019
 - [SecureML: A System for Scalable Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/396), Payman Mohassel, Yupeng Zhang, SP2017
 - 
-- [SecureNN: 3-Party Secure Computation for Neural Network Training](https://petsymposium.org/popets/2019/popets-2019-0035.php), Sameer Wagh, Divya Gupta, Nishanth Chandran, PETS2019
-- [Falcon: Honest-Majority Maliciously Secure Framework for Private Deep Learning](https://petsymposium.org/popets/2021/popets-2021-0011.php),	Sameer Wagh, Shruti Tople, Fabrice Benhamouda, Eyal Kushilevitz, Prateek Mittal, Tal Rabin, PETS2021
+- [SecureNN: 3-Party Secure Computation for Neural Network Training](https://petsymposium.org/popets/2019/popets-2019-0035.php), Sameer Wagh, Divya Gupta, Nishanth Chandran, PETS2019, [code](https://github.com/snwagh/securenn-public)
+- [Falcon: Honest-Majority Maliciously Secure Framework for Private Deep Learning](https://petsymposium.org/popets/2021/popets-2021-0011.php),	Sameer Wagh, Shruti Tople, Fabrice Benhamouda, Eyal Kushilevitz, Prateek Mittal, Tal Rabin, PETS2021, [code](https://github.com/snwagh/falcon-public/)
