@@ -26,6 +26,12 @@
 - [SecureNN: 3-Party Secure Computation for Neural Network Training](https://petsymposium.org/popets/2019/popets-2019-0035.php), Sameer Wagh, Divya Gupta, Nishanth Chandran, PETS2019, [code](https://github.com/snwagh/securenn-public)
 - [Falcon: Honest-Majority Maliciously Secure Framework for Private Deep Learning](https://petsymposium.org/popets/2021/popets-2021-0011.php),	Sameer Wagh, Shruti Tople, Fabrice Benhamouda, Eyal Kushilevitz, Prateek Mittal, Tal Rabin, PETS2021, [code](https://github.com/snwagh/falcon-public/)
 - [CrypTen: Secure Multi-Party Computation Meets Machine Learning](https://proceedings.neurips.cc/paper/2021/hash/2754518221cfbc8d25c13a06a4cb8421-Abstract.html), Brian Knott, Shobha Venkataraman, Awni Hannun, Shubho Sengupta, Mark Ibrahim, Laurens van der Maaten, NeurIPS2021, [code](https://github.com/facebookresearch/CrypTen)
+- [Glyph: Fast and Accurately Training Deep Neural Networks on Encrypted Data](https://proceedings.neurips.cc/paper/2020/hash/685ac8cadc1be5ac98da9556bc1c8d9e-Abstract.html), Qian Lou, Bo Feng, Geoffrey Charles Fox, Lei Jiang, NeurIPS2020
+- [Falcon: Fast Spectral Inference on Encrypted Data](https://proceedings.neurips.cc/paper/2020/hash/18fc72d8b8aba03a4d84f66efabce82e-Abstract.html), Qian Lou, Wen-jie Lu, Cheng Hong, Lei Jiang, NeurIPS2020
+- [AutoPrivacy: Automated Layer-wise Parameter Selection for Secure Neural Network Inference](https://proceedings.neurips.cc/paper/2020/hash/6244b2ba957c48bc64582cf2bcec3d04-Abstract.html), Qian Lou, Song Bian, Lei Jiang, NeurIPS2020
+- [Partially Encrypted Deep Learning using Functional Encryption](https://proceedings.neurips.cc/paper/2019/hash/9d28de8ff9bb6a3fa41fddfdc28f3bc1-Abstract.html), Théo Ryffel, David Pointcheval, Francis Bach, Edouard Dufour-Sans, Romain Gay, NeurIPS2019
+- [SHE: A Fast and Accurate Deep Neural Network for Encrypted Data](https://proceedings.neurips.cc/paper/2019/hash/56a3107cad6611c8337ee36d178ca129-Abstract.html), Qian Lou, Lei Jiang, NeurIPS2019
+- 
 
 
 
@@ -38,4 +44,6 @@
 - [SAFENet: A Secure, Accurate and Fast Neural Network Inference](https://openreview.net/forum?id=Cz3dbFm5u-), Qian Lou, Yilin Shen, Hongxia Jin, Lei Jiang, ICLR2021
 
 - [ENSEI: Efficient Secure Inference via Frequency-Domain Homomorphic Convolution for Privacy-Preserving Visual Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Bian_ENSEI_Efficient_Secure_Inference_via_Frequency-Domain_Homomorphic_Convolution_for_Privacy-Preserving_CVPR_2020_paper.html), Song Bian, Tianchen Wang, Masayuki Hiromoto, Yiyu Shi, Takashi Sato, CVPR2020
+
+- [CRYPTOGRU: Low Latency Privacy-Preserving Text Analysis With GRU](https://aclanthology.org/2021.emnlp-main.156/), Bo Feng, Qian Lou, Lei Jiang, Geoffrey Fox, EMNLP2021
 - 
