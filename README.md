@@ -26,4 +26,11 @@
 - [SecureNN: 3-Party Secure Computation for Neural Network Training](https://petsymposium.org/popets/2019/popets-2019-0035.php), Sameer Wagh, Divya Gupta, Nishanth Chandran, PETS2019, [code](https://github.com/snwagh/securenn-public)
 - [Falcon: Honest-Majority Maliciously Secure Framework for Private Deep Learning](https://petsymposium.org/popets/2021/popets-2021-0011.php),	Sameer Wagh, Shruti Tople, Fabrice Benhamouda, Eyal Kushilevitz, Prateek Mittal, Tal Rabin, PETS2021, [code](https://github.com/snwagh/falcon-public/)
 - [CrypTen: Secure Multi-Party Computation Meets Machine Learning](https://proceedings.neurips.cc/paper/2021/hash/2754518221cfbc8d25c13a06a4cb8421-Abstract.html), Brian Knott, Shobha Venkataraman, Awni Hannun, Shubho Sengupta, Mark Ibrahim, Laurens van der Maaten, NeurIPS2021, [code](https://github.com/facebookresearch/CrypTen)
-- 
+
+
+
+- [Low-Complexity Deep Convolutional Neural Networks on Fully Homomorphic Encryption Using Multiplexed Parallel Convolutions](https://proceedings.mlr.press/v162/lee22e.html), Eunsang Lee, Joon-Woo Lee, Junghyun Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, Woosuk Choi, ICML2022
+- [Low Latency Privacy Preserving Inference](http://proceedings.mlr.press/v97/brutzkus19a.html), Alon Brutzkus, Ran Gilad-Bachrach, Oren Elisha, ICML2019
+- [TAPAS: Tricks to Accelerate (encrypted) Prediction As a Service](http://proceedings.mlr.press/v80/sanyal18a.html), Amartya Sanyal, Matt Kusner, Adria Gascon, Varun Kanade, ICML2018
+- [CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy](http://proceedings.mlr.press/v48/gilad-bachrach16.html), Ran Gilad-Bachrach, Nathan Dowlin, Kim Laine, Kristin Lauter, Michael Naehrig, John Wernsing, ICML2016
+
