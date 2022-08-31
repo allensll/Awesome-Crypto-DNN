@@ -38,4 +38,4 @@
 - [SAFENet: A Secure, Accurate and Fast Neural Network Inference](https://openreview.net/forum?id=Cz3dbFm5u-), Qian Lou, Yilin Shen, Hongxia Jin, Lei Jiang, ICLR2021
 - [ENSEI: Efficient Secure Inference via Frequency-Domain Homomorphic Convolution for Privacy-Preserving Visual Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Bian_ENSEI_Efficient_Secure_Inference_via_Frequency-Domain_Homomorphic_Convolution_for_Privacy-Preserving_CVPR_2020_paper.html), Song Bian, Tianchen Wang, Masayuki Hiromoto, Yiyu Shi, Takashi Sato, CVPR2020
 - [CRYPTOGRU: Low Latency Privacy-Preserving Text Analysis With GRU](https://aclanthology.org/2021.emnlp-main.156/), Bo Feng, Qian Lou, Lei Jiang, Geoffrey Fox, EMNLP2021
-- [Privacy-Enhanced Machine Learning with Functional Encryption](https://eprint.iacr.org/2019/1129), Tilen Marc, Miha Stopar, Jan Hartman, Manca Bizjak, Jolanda Modic, ESORICS2019
+- [Privacy-Enhanced Machine Learning with Functional Encryption](https://eprint.iacr.org/2019/1129), Tilen Marc, Miha Stopar, Jan Hartman, Manca Bizjak, Jolanda Modic, ESORICS2019, [code](https://github.com/fentec-project/neural-network-on-encrypted-data)
