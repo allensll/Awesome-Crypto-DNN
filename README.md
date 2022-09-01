@@ -21,6 +21,7 @@
 - [Oblivious Neural Network Predictions via MiniONN transformations](https://eprint.iacr.org/2017/452),Jian Liu, Mika Juuti, Yao Lu, N. Asokan, CCS2017
 - [ABY3: A Mixed Protocol Framework for Machine Learning](https://eprint.iacr.org/2018/403), Payman Mohassel, Peter Rindal, CCS2018, [code](https://github.com/ladnir/aby3)
 - [Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference](https://eprint.iacr.org/2019/524), Hao Chen, Wei Dai, Miran Kim, Yongsoo Song, CCS2019
+- [QUOTIENT: Two-Party Secure Neural Network Training and Prediction](https://arxiv.org/abs/1907.03372), Nitin Agrawal, Ali Shahin Shamsabadi, Matt J. Kusner, Adrià Gascón, CCS2019
 - [SecureML: A System for Scalable Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/396), Payman Mohassel, Yupeng Zhang, SP2017
 - [AriaNN: Low-Interaction Privacy-Preserving Deep Learning via Function Secret Sharing](https://petsymposium.org/popets/2022/popets-2022-0015.php), Théo Ryffel, Pierre Tholoniat, David Pointcheval, Francis R. Bach, PETS2022, [code](https://github.com/LaRiffle/ariann)
 - [SecureNN: 3-Party Secure Computation for Neural Network Training](https://petsymposium.org/popets/2019/popets-2019-0035.php), Sameer Wagh, Divya Gupta, Nishanth Chandran, PETS2019, [code](https://github.com/snwagh/securenn-public)
