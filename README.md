@@ -48,6 +48,7 @@
 - [SecureNN: 3-Party Secure Computation for Neural Network Training](https://petsymposium.org/popets/2019/popets-2019-0035.php), Sameer Wagh, Divya Gupta, Nishanth Chandran, PETS2019, [code](https://github.com/snwagh/securenn-public)
 - [Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference](https://eprint.iacr.org/2019/524), Hao Chen, Wei Dai, Miran Kim, Yongsoo Song, CCS2019
 - [XONN: XNOR-based Oblivious Deep Neural Network Inference](https://www.usenix.org/conference/usenixsecurity19/presentation/riazi), M. Sadegh Riazi, Mohammad Samragh, Hao Chen, Kim Laine, Kristin E. Lauter, Farinaz Koushanfar, USENIX2019
+- [Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware](https://openreview.net/forum?id=rJVorjCcKQ), Florian Tramèr, Dan Boneh, ICLR2019, [code](https://github.com/ftramer/slalom)
 ### 2018
 - [TAPAS: Tricks to Accelerate (encrypted) Prediction As a Service](http://proceedings.mlr.press/v80/sanyal18a.html), Amartya Sanyal, Matt Kusner, Adria Gascon, Varun Kanade, ICML2018
 - [ABY3: A Mixed Protocol Framework for Machine Learning](https://eprint.iacr.org/2018/403), Payman Mohassel, Peter Rindal, CCS2018, [code](https://github.com/ladnir/aby3)
