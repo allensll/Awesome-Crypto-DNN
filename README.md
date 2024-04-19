@@ -2,7 +2,7 @@
 
 - [Learning to Linearize Deep Neural Networks for Secure and Efficient Private Inference](), Souvik Kundu, Shunlin Lu, Yuke Zhang, Jacqueline Tiffany Liu, Peter A. Beerel, ICLR2023
 - [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://proceedings.neurips.cc//paper_files/paper/2023/hash/41bd71e7bf7f9fe68f1c936940fd06bd-Abstract-Conference.html), Hongwu Peng, Ran Ran, Yukui Luo, Jiahui Zhao, Shaoyi Huang, Kiran Thorat, Tong Geng, Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding, NeurIPS2023, [code](https://github.com/harveyp123/LinGCN-Neurips23)
-- [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](https://openaccess.thecvf.com/content/ICCV2023/papers/Peng_AutoReP_Automatic_ReLU_Replacement_for_Fast_Private_Network_Inference_ICCV_2023_paper.pdf), ICCV2023
+- [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](https://openaccess.thecvf.com/content/ICCV2023/papers/Peng_AutoReP_Automatic_ReLU_Replacement_for_Fast_Private_Network_Inference_ICCV_2023_paper.pdf), ICCV2023, [code](https://github.com/HarveyP123/AutoReP)
 - [SAL-ViT: Towards Latency Efficient Private Inference on ViT using Selective Attention Search with a Learnable Softmax Approximation](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_SAL-ViT_Towards_Latency_Efficient_Private_Inference_on_ViT_using_Selective_ICCV_2023_paper.pdf), ICCV2023
 
 ### 2024
