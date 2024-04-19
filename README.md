@@ -3,7 +3,7 @@
 ### 2024
 
 ### 2023
-
+- [HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption](https://proceedings.mlr.press/v202/lee23m.html), Seewoo Lee, Garam Lee, Jung Woo Kim, Junbum Shin, Mun-Kyu Lee, ICML2023, [code](https://github.com/cryptolabinc/hetal)
 ### 2022
 - [Low-Complexity Deep Convolutional Neural Networks on Fully Homomorphic Encryption Using Multiplexed Parallel Convolutions](https://proceedings.mlr.press/v162/lee22e.html), Eunsang Lee, Joon-Woo Lee, Junghyun Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, Woosuk Choi, ICML2022
 - [Sphinx: Enabling Privacy-Preserving Online Learning over the Cloud](https://ieeexplore.ieee.org/document/9833648), Han Tian, Chaoliang Zeng, Zhenghang Ren, Di Chai, Junxue ZHANG, Kai Chen, Qiang Yang, SP2022
