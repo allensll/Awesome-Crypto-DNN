@@ -38,7 +38,7 @@
 - [EzPC: Programmable and Efficient Secure Two-Party Computation for Machine Learning](https://eprint.iacr.org/2017/1109), Nishanth Chandran, Divya Gupta, Aseem Rastogi, Rahul Sharma, Shardul Tripathi, EuroSP2019, [code](https://github.com/mpc-msri/EzPC)
 - [Privacy-Enhanced Machine Learning with Functional Encryption](https://eprint.iacr.org/2019/1129), Tilen Marc, Miha Stopar, Jan Hartman, Manca Bizjak, Jolanda Modic, ESORICS2019, [code](https://github.com/fentec-project/neural-network-on-encrypted-data)
 - [Low Latency Privacy Preserving Inference](http://proceedings.mlr.press/v97/brutzkus19a.html), Alon Brutzkus, Ran Gilad-Bachrach, Oren Elisha, ICML2019
-- [SHE: A Fast and Accurate Deep Neural Network for Encrypted Data](https://proceedings.neurips.cc/paper/2019/hash/56a3107cad6611c8337ee36d178ca129-Abstract.html), Qian Lou, Lei Jiang, NeurIPS2019
+- [SHE: A Fast and Accurate Deep Neural Network for Encrypted Data](https://proceedings.neurips.cc/paper/2019/hash/56a3107cad6611c8337ee36d178ca129-Abstract.html), Qian Lou, Lei Jiang, NeurIPS2019, [code](https://github.com/qianlou/SHE)
 - [Partially Encrypted Deep Learning using Functional Encryption](https://proceedings.neurips.cc/paper/2019/hash/9d28de8ff9bb6a3fa41fddfdc28f3bc1-Abstract.html), Théo Ryffel, David Pointcheval, Francis Bach, Edouard Dufour-Sans, Romain Gay, NeurIPS2019
 - [QUOTIENT: Two-Party Secure Neural Network Training and Prediction](https://arxiv.org/abs/1907.03372), Nitin Agrawal, Ali Shahin Shamsabadi, Matt J. Kusner, Adrià Gascón, CCS2019
 - [SecureNN: 3-Party Secure Computation for Neural Network Training](https://petsymposium.org/popets/2019/popets-2019-0035.php), Sameer Wagh, Divya Gupta, Nishanth Chandran, PETS2019, [code](https://github.com/snwagh/securenn-public)
