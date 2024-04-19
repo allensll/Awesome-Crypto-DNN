@@ -10,6 +10,7 @@
 - [SecFloat: Accurate Floating-Point meets Secure 2-Party Computation](https://eprint.iacr.org/2022/322), Deevashwer Rathee, Anwesh Bhattacharya, Rahul Sharma, Divya Gupta, Nishanth Chandran, Aseem Rastogi, SP2022, [code](https://github.com/mpc-msri/EzPC)
 - [AriaNN: Low-Interaction Privacy-Preserving Deep Learning via Function Secret Sharing](https://petsymposium.org/popets/2022/popets-2022-0015.php), Théo Ryffel, Pierre Tholoniat, David Pointcheval, Francis R. Bach, PETS2022, [code](https://github.com/LaRiffle/ariann)
 - [Secure Quantized Training for Deep Learning](https://proceedings.mlr.press/v162/keller22a.html), Marcel Keller, Ke Sun, ICML2022, [code](https://github.com/csiro-mlai/deep-mpc)
+- [Iron: Private Inference on Transformers](https://proceedings.neurips.cc//paper_files/paper/2022/hash/64e2449d74f84e5b1a5c96ba7b3d308e-Abstract-Conference.html), Meng Hao, Hongwei Li, Hanxiao Chen, Pengzhi Xing, Guowen Xu, Tianwei Zhang, NeurIPS2022, [code](https://github.com/xingpz2008/Iron)
 ### 2021
 - [SAFENet: A Secure, Accurate and Fast Neural Network Inference](https://openreview.net/forum?id=Cz3dbFm5u-), Qian Lou, Yilin Shen, Hongxia Jin, Lei Jiang, ICLR2021
 - [CRYPTOGRU: Low Latency Privacy-Preserving Text Analysis With GRU](https://aclanthology.org/2021.emnlp-main.156/), Bo Feng, Qian Lou, Lei Jiang, Geoffrey Fox, EMNLP2021
