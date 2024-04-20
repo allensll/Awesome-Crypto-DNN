@@ -4,6 +4,8 @@
 - [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://proceedings.neurips.cc//paper_files/paper/2023/hash/41bd71e7bf7f9fe68f1c936940fd06bd-Abstract-Conference.html), Hongwu Peng, Ran Ran, Yukui Luo, Jiahui Zhao, Shaoyi Huang, Kiran Thorat, Tong Geng, Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding, NeurIPS2023, [code](https://github.com/harveyp123/LinGCN-Neurips23)
 - [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](https://openaccess.thecvf.com/content/ICCV2023/papers/Peng_AutoReP_Automatic_ReLU_Replacement_for_Fast_Private_Network_Inference_ICCV_2023_paper.pdf), ICCV2023, [code](https://github.com/HarveyP123/AutoReP)
 - [SAL-ViT: Towards Latency Efficient Private Inference on ViT using Selective Attention Search with a Learnable Softmax Approximation](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_SAL-ViT_Towards_Latency_Efficient_Private_Inference_on_ViT_using_Selective_ICCV_2023_paper.pdf), ICCV2023
+- [Bicoptor: Two-round Secure Three-party Non-linear Computation without Preprocessing for Privacy-preserving Machine Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179449),	Lijing Zhou, Ziyu Wang, Hongrui Cui, Qingrui Song, Yu Yu, SP2023
+
 
 ### 2024
 
@@ -13,7 +15,9 @@
 - [Convolutions in Overdrive: Maliciously Secure Convolutions for MPC](https://petsymposium.org/popets/2023/popets-2023-0084.pdf), Marc Rivinius, Pascal Reisert, Sebastian Hasler, and Ralf Küsters, PETS2023
 - [HeLayers: A Tile Tensors Framework for Large Neural Networks on Encrypted Data](https://petsymposium.org/2023/paperlist.php), Ehud Aharoni, Allon Adir, Moran Baruch, Nir Drucker, Gilad Ezov, Ariel Farkash, Lev Greenberg, Ramy Masalha, Guy Moshkowich, Dov Murik, Hayim Shaul, and Omri Soceanu, PETS2023, [code](https://github.com/IBM/helayers)
 - [Multi-Party Replicated Secret Sharing over a Ring with Applications to Privacy-Preserving Machine Learning](https://petsymposium.org/popets/2023/popets-2023-0035.pdf), Alessandro Baccarini, Marina Blanton, Chen Yuan, PETS2023
-
+- [HELiKs: HE Linear Algebra Kernels for Secure Inference](https://dl.acm.org/doi/pdf/10.1145/3576915.3623136), Shashank Balla, Farinaz Koushanfar, CCS2023, [code](https://github.com/shashankballa/HELiKs)
+- [SoK: Cryptographic Neural-Network Computation](https://ieeexplore.ieee.org/document/10179483), Lucien K. L. Ng, Sherman S. M. Chow, SP2023
+- [ShadowNet: A Secure and Efficient On-device Model Inference System for Convolutional Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179382),	Zhichuang Sun, Ruimin Sun, Changming Liu, Amrita Roy Chowdhury, Long Lu, Somesh Jha, SP2023, [code](https://github.com/RiS3-Lab/ShadowNet)
 ### 2022
 - [Low-Complexity Deep Convolutional Neural Networks on Fully Homomorphic Encryption Using Multiplexed Parallel Convolutions](https://proceedings.mlr.press/v162/lee22e.html), Eunsang Lee, Joon-Woo Lee, Junghyun Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, Woosuk Choi, ICML2022
 - [Sphinx: Enabling Privacy-Preserving Online Learning over the Cloud](https://ieeexplore.ieee.org/document/9833648), Han Tian, Chaoliang Zeng, Zhenghang Ren, Di Chai, Junxue ZHANG, Kai Chen, Qiang Yang, SP2022
@@ -23,6 +27,7 @@
 - [Iron: Private Inference on Transformers](https://proceedings.neurips.cc//paper_files/paper/2022/hash/64e2449d74f84e5b1a5c96ba7b3d308e-Abstract-Conference.html), Meng Hao, Hongwei Li, Hanxiao Chen, Pengzhi Xing, Guowen Xu, Tianwei Zhang, NeurIPS2022, [code](https://github.com/xingpz2008/Iron)
 - [CryptoGCN: Fast and Scalable Homomorphically Encrypted Graph Convolutional Network Inference](https://proceedings.neurips.cc//paper_files/paper/2022/hash/f5332c8273d02729730a9c24dec2135e-Abstract-Conference.html), Ran Ran, Wei Wang, Quan Gang, Jieming Yin, Nuo Xu, Wujie Wen, NeurIPS2022, [code](https://github.com/ranran0523/CryptoGCN)
 - [3LegRace: Privacy-Preserving DNN Training over TEEs and GPUs](https://petsymposium.org/popets/2022/popets-2022-0105.pdf), Yue Niu, Ramy E. Ali, Salman Avestimehr, PETS2022
+- [Private and Reliable Neural Network Inference](https://dl.acm.org/doi/pdf/10.1145/3548606.3560709),	Nikola Jovanovic, Marc Fischer, Samuel Steffen, Martin T. Vechev, CCS2022
 ### 2021
 - [SAFENet: A Secure, Accurate and Fast Neural Network Inference](https://openreview.net/forum?id=Cz3dbFm5u-), Qian Lou, Yilin Shen, Hongxia Jin, Lei Jiang, ICLR2021
 - [CRYPTOGRU: Low Latency Privacy-Preserving Text Analysis With GRU](https://aclanthology.org/2021.emnlp-main.156/), Bo Feng, Qian Lou, Lei Jiang, Geoffrey Fox, EMNLP2021
