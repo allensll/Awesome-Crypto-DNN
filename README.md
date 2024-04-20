@@ -18,6 +18,8 @@
 - [HELiKs: HE Linear Algebra Kernels for Secure Inference](https://dl.acm.org/doi/pdf/10.1145/3576915.3623136), Shashank Balla, Farinaz Koushanfar, CCS2023, [code](https://github.com/shashankballa/HELiKs)
 - [SoK: Cryptographic Neural-Network Computation](https://ieeexplore.ieee.org/document/10179483), Lucien K. L. Ng, Sherman S. M. Chow, SP2023
 - [ShadowNet: A Secure and Efficient On-device Model Inference System for Convolutional Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179382),	Zhichuang Sun, Ruimin Sun, Changming Liu, Amrita Roy Chowdhury, Long Lu, Somesh Jha, SP2023, [code](https://github.com/RiS3-Lab/ShadowNet)
+- [Fusion: Efficient and Secure Inference Resilient to Malicious Servers](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s199_paper.pdf), 	Caiqin Dong, Jian Weng, Jia-Nan Liu, Yue Zhang, Yao Tong, Anjia Yang, Yudan Cheng, Shun Hu, NDSS2023
+- [REDsec: Running Encrypted Discretized Neural Networks in Seconds](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f34_paper.pdf), Lars Folkerts, Charles Gouert, Nektarios Georgios Tsoutsos, NDSS2023
 ### 2022
 - [Low-Complexity Deep Convolutional Neural Networks on Fully Homomorphic Encryption Using Multiplexed Parallel Convolutions](https://proceedings.mlr.press/v162/lee22e.html), Eunsang Lee, Joon-Woo Lee, Junghyun Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, Woosuk Choi, ICML2022
 - [Sphinx: Enabling Privacy-Preserving Online Learning over the Cloud](https://ieeexplore.ieee.org/document/9833648), Han Tian, Chaoliang Zeng, Zhenghang Ren, Di Chai, Junxue ZHANG, Kai Chen, Qiang Yang, SP2022
@@ -28,6 +30,7 @@
 - [CryptoGCN: Fast and Scalable Homomorphically Encrypted Graph Convolutional Network Inference](https://proceedings.neurips.cc//paper_files/paper/2022/hash/f5332c8273d02729730a9c24dec2135e-Abstract-Conference.html), Ran Ran, Wei Wang, Quan Gang, Jieming Yin, Nuo Xu, Wujie Wen, NeurIPS2022, [code](https://github.com/ranran0523/CryptoGCN)
 - [3LegRace: Privacy-Preserving DNN Training over TEEs and GPUs](https://petsymposium.org/popets/2022/popets-2022-0105.pdf), Yue Niu, Ramy E. Ali, Salman Avestimehr, PETS2022
 - [Private and Reliable Neural Network Inference](https://dl.acm.org/doi/pdf/10.1145/3548606.3560709),	Nikola Jovanovic, Marc Fischer, Samuel Steffen, Martin T. Vechev, CCS2022
+- [Tetrad: Actively Secure 4PC for Secure Training and Inference](https://www.ndss-symposium.org/ndss-paper/auto-draft-202/), Nishat Koti, Arpita Patra, Rahul Rachuri, Ajith Suresh, NDSS2022
 ### 2021
 - [SAFENet: A Secure, Accurate and Fast Neural Network Inference](https://openreview.net/forum?id=Cz3dbFm5u-), Qian Lou, Yilin Shen, Hongxia Jin, Lei Jiang, ICLR2021
 - [CRYPTOGRU: Low Latency Privacy-Preserving Text Analysis With GRU](https://aclanthology.org/2021.emnlp-main.156/), Bo Feng, Qian Lou, Lei Jiang, Geoffrey Fox, EMNLP2021
