@@ -10,6 +10,9 @@
 ### 2023
 - [HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption](https://proceedings.mlr.press/v202/lee23m.html), Seewoo Lee, Garam Lee, Jung Woo Kim, Junbum Shin, Mun-Kyu Lee, ICML2023, [code](https://github.com/cryptolabinc/hetal)
 - [Penguin: Parallel-Packed Homomorphic Encryption for Fast Graph Convolutional Network Inference](https://proceedings.neurips.cc//paper_files/paper/2023/hash/3cc685788a311fa35d8d41df93e288ca-Abstract-Conference.html), Ran Ran, Nuo Xu, Tao Liu, Wei Wang, Gang Quan, Wujie Wen, NeurIPS2023
+- [Convolutions in Overdrive: Maliciously Secure Convolutions for MPC](https://petsymposium.org/popets/2023/popets-2023-0084.pdf), Marc Rivinius, Pascal Reisert, Sebastian Hasler, and Ralf Küsters, PETS2023
+- [HeLayers: A Tile Tensors Framework for Large Neural Networks on Encrypted Data](https://petsymposium.org/2023/paperlist.php), Ehud Aharoni, Allon Adir, Moran Baruch, Nir Drucker, Gilad Ezov, Ariel Farkash, Lev Greenberg, Ramy Masalha, Guy Moshkowich, Dov Murik, Hayim Shaul, and Omri Soceanu, PETS2023, [code](https://github.com/IBM/helayers)
+- [Multi-Party Replicated Secret Sharing over a Ring with Applications to Privacy-Preserving Machine Learning](https://petsymposium.org/popets/2023/popets-2023-0035.pdf), Alessandro Baccarini, Marina Blanton, Chen Yuan, PETS2023
 
 ### 2022
 - [Low-Complexity Deep Convolutional Neural Networks on Fully Homomorphic Encryption Using Multiplexed Parallel Convolutions](https://proceedings.mlr.press/v162/lee22e.html), Eunsang Lee, Joon-Woo Lee, Junghyun Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, Woosuk Choi, ICML2022
@@ -19,6 +22,7 @@
 - [Secure Quantized Training for Deep Learning](https://proceedings.mlr.press/v162/keller22a.html), Marcel Keller, Ke Sun, ICML2022, [code](https://github.com/csiro-mlai/deep-mpc)
 - [Iron: Private Inference on Transformers](https://proceedings.neurips.cc//paper_files/paper/2022/hash/64e2449d74f84e5b1a5c96ba7b3d308e-Abstract-Conference.html), Meng Hao, Hongwei Li, Hanxiao Chen, Pengzhi Xing, Guowen Xu, Tianwei Zhang, NeurIPS2022, [code](https://github.com/xingpz2008/Iron)
 - [CryptoGCN: Fast and Scalable Homomorphically Encrypted Graph Convolutional Network Inference](https://proceedings.neurips.cc//paper_files/paper/2022/hash/f5332c8273d02729730a9c24dec2135e-Abstract-Conference.html), Ran Ran, Wei Wang, Quan Gang, Jieming Yin, Nuo Xu, Wujie Wen, NeurIPS2022, [code](https://github.com/ranran0523/CryptoGCN)
+- [3LegRace: Privacy-Preserving DNN Training over TEEs and GPUs](https://petsymposium.org/popets/2022/popets-2022-0105.pdf), Yue Niu, Ramy E. Ali, Salman Avestimehr, PETS2022
 ### 2021
 - [SAFENet: A Secure, Accurate and Fast Neural Network Inference](https://openreview.net/forum?id=Cz3dbFm5u-), Qian Lou, Yilin Shen, Hongxia Jin, Lei Jiang, ICLR2021
 - [CRYPTOGRU: Low Latency Privacy-Preserving Text Analysis With GRU](https://aclanthology.org/2021.emnlp-main.156/), Bo Feng, Qian Lou, Lei Jiang, Geoffrey Fox, EMNLP2021
