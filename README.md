@@ -2,9 +2,9 @@
 
 - [Learning to Linearize Deep Neural Networks for Secure and Efficient Private Inference](), Souvik Kundu, Shunlin Lu, Yuke Zhang, Jacqueline Tiffany Liu, Peter A. Beerel, ICLR2023
 - [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://proceedings.neurips.cc//paper_files/paper/2023/hash/41bd71e7bf7f9fe68f1c936940fd06bd-Abstract-Conference.html), Hongwu Peng, Ran Ran, Yukui Luo, Jiahui Zhao, Shaoyi Huang, Kiran Thorat, Tong Geng, Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding, NeurIPS2023, [code](https://github.com/harveyp123/LinGCN-Neurips23)
-- [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](https://openaccess.thecvf.com/content/ICCV2023/papers/Peng_AutoReP_Automatic_ReLU_Replacement_for_Fast_Private_Network_Inference_ICCV_2023_paper.pdf), ICCV2023, [code](https://github.com/HarveyP123/AutoReP)
-- [SAL-ViT: Towards Latency Efficient Private Inference on ViT using Selective Attention Search with a Learnable Softmax Approximation](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_SAL-ViT_Towards_Latency_Efficient_Private_Inference_on_ViT_using_Selective_ICCV_2023_paper.pdf), ICCV2023
-- [Bicoptor: Two-round Secure Three-party Non-linear Computation without Preprocessing for Privacy-preserving Machine Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179449),	Lijing Zhou, Ziyu Wang, Hongrui Cui, Qingrui Song, Yu Yu, SP2023
+- [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](https://openaccess.thecvf.com/content/ICCV2023/papers/Peng_AutoReP_Automatic_ReLU_Replacement_for_Fast_Private_Network_Inference_ICCV_2023_paper.pdf), Hongwu Peng, Shaoyi Huang, Tong Zhou, Yukui Luo, Chenghong Wang, Zigeng Wang, Jiahui Zhao, Xi Xie, Ang Li, Tony Geng, Kaleel Mahmood, Wujie Wen, Xiaolin Xu, Caiwen Ding, ICCV2023, [code](https://github.com/HarveyP123/AutoReP)
+- [SAL-ViT: Towards Latency Efficient Private Inference on ViT using Selective Attention Search with a Learnable Softmax Approximation](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_SAL-ViT_Towards_Latency_Efficient_Private_Inference_on_ViT_using_Selective_ICCV_2023_paper.pdf), Yuke Zhang, Dake Chen, Souvik Kundu, Chenghao Li, Peter A. Beerel, ICCV2023
+
 
 
 ### 2024
@@ -21,6 +21,7 @@
 - [Fusion: Efficient and Secure Inference Resilient to Malicious Servers](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s199_paper.pdf), 	Caiqin Dong, Jian Weng, Jia-Nan Liu, Yue Zhang, Yao Tong, Anjia Yang, Yudan Cheng, Shun Hu, NDSS2023
 - [REDsec: Running Encrypted Discretized Neural Networks in Seconds](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f34_paper.pdf), Lars Folkerts, Charles Gouert, Nektarios Georgios Tsoutsos, NDSS2023
 - [Secure Floating-Point Training](), Deevashwer Rathee, Anwesh Bhattacharya, Divya Gupta, Rahul Sharma, Dawn Song, USENIX2023
+- [Bicoptor: Two-round Secure Three-party Non-linear Computation without Preprocessing for Privacy-preserving Machine Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179449),	Lijing Zhou, Ziyu Wang, Hongrui Cui, Qingrui Song, Yu Yu, SP2023
 ### 2022
 - [Low-Complexity Deep Convolutional Neural Networks on Fully Homomorphic Encryption Using Multiplexed Parallel Convolutions](https://proceedings.mlr.press/v162/lee22e.html), Eunsang Lee, Joon-Woo Lee, Junghyun Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, Woosuk Choi, ICML2022
 - [Sphinx: Enabling Privacy-Preserving Online Learning over the Cloud](https://ieeexplore.ieee.org/document/9833648), Han Tian, Chaoliang Zeng, Zhenghang Ren, Di Chai, Junxue ZHANG, Kai Chen, Qiang Yang, SP2022
