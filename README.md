@@ -1,9 +1,15 @@
 # Awesome-Crypto-DNN
 
-- [Learning to Linearize Deep Neural Networks for Secure and Efficient Private Inference](), Souvik Kundu, Shunlin Lu, Yuke Zhang, Jacqueline Tiffany Liu, Peter A. Beerel, ICLR2023
+- [MPCViT: Searching for Accurate and Efficient MPC-Friendly Vision Transformer with Heterogeneous Attention](https://openaccess.thecvf.com/content/ICCV2023/papers/Zeng_MPCViT_Searching_for_Accurate_and_Efficient_MPC-Friendly_Vision_Transformer_with_ICCV_2023_paper.pdf), Wenxuan Zeng, Meng Li, Wenjie Xiong, Tong Tong, Wen-jie Lu, Jin Tan, Runsheng Wang, Ru Huang, ICCV2023
+- [Learning to Linearize Deep Neural Networks for Secure and Efficient Private Inference](https://openreview.net/forum?id=BGF9IeDfmlH), Souvik Kundu, Shunlin Lu, Yuke Zhang, Jacqueline Tiffany Liu, Peter A. Beerel, ICLR2023
 - [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://proceedings.neurips.cc//paper_files/paper/2023/hash/41bd71e7bf7f9fe68f1c936940fd06bd-Abstract-Conference.html), Hongwu Peng, Ran Ran, Yukui Luo, Jiahui Zhao, Shaoyi Huang, Kiran Thorat, Tong Geng, Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding, NeurIPS2023, [code](https://github.com/harveyp123/LinGCN-Neurips23)
 - [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](https://openaccess.thecvf.com/content/ICCV2023/papers/Peng_AutoReP_Automatic_ReLU_Replacement_for_Fast_Private_Network_Inference_ICCV_2023_paper.pdf), Hongwu Peng, Shaoyi Huang, Tong Zhou, Yukui Luo, Chenghong Wang, Zigeng Wang, Jiahui Zhao, Xi Xie, Ang Li, Tony Geng, Kaleel Mahmood, Wujie Wen, Xiaolin Xu, Caiwen Ding, ICCV2023, [code](https://github.com/HarveyP123/AutoReP)
 - [SAL-ViT: Towards Latency Efficient Private Inference on ViT using Selective Attention Search with a Learnable Softmax Approximation](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_SAL-ViT_Towards_Latency_Efficient_Private_Inference_on_ViT_using_Selective_ICCV_2023_paper.pdf), Yuke Zhang, Dake Chen, Souvik Kundu, Chenghao Li, Peter A. Beerel, ICCV2023
+- [Selective Network Linearization for Efficient Private Inference](https://arxiv.org/pdf/2202.02340.pdf), Minsu Cho, Ameya Joshi, Siddharth Garg, Brandon Reagen, Chinmay Hegde, ICML2022, [code](https://github.com/NYU-DICE-Lab/selective_network_linearization)
+- [Sphynx: ReLU-Efficient Network Design for Private Inference](https://ieeexplore.ieee.org/document/9786822), Minsu Cho, Zahra Ghodsi, Brandon Reagen, Siddharth Garg, Chinmay Hegde, SP2022, [code](https://github.com/NYU-DICE-Lab/Sphynx)
+- [CryptoNAS: Private Inference on a ReLU Budget](https://arxiv.org/pdf/2006.08733.pdf), Zahra Ghodsi, Akshaj Veldanda, Brandon Reagen, Siddharth Garg, NeurIPS2020, [code](https://github.com/zghodsi/CryptoNAS)
+- [DeepReDuce: ReLU Reduction for Fast Private Inference](https://proceedings.mlr.press/v139/jha21a/jha21a.pdf), Nandan Kumar Jha, Zahra Ghodsi, Siddharth Garg, and Brandon Reagen, ICML2021
+- 
 
 
 
@@ -12,6 +18,7 @@
 ### 2023
 - [HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption](https://proceedings.mlr.press/v202/lee23m.html), Seewoo Lee, Garam Lee, Jung Woo Kim, Junbum Shin, Mun-Kyu Lee, ICML2023, [code](https://github.com/cryptolabinc/hetal)
 - [Penguin: Parallel-Packed Homomorphic Encryption for Fast Graph Convolutional Network Inference](https://proceedings.neurips.cc//paper_files/paper/2023/hash/3cc685788a311fa35d8d41df93e288ca-Abstract-Conference.html), Ran Ran, Nuo Xu, Tao Liu, Wei Wang, Gang Quan, Wujie Wen, NeurIPS2023
+- [CoPriv: Network/Protocol Co-Optimization for Communication-Efficient Private Inference](https://proceedings.neurips.cc/paper_files/paper/2023/file/f96839fc751b67492e17e70f5c9730e4-Paper-Conference.pdf), Wenxuan Zeng, Meng Li, Haichuan Yang, Wen-jie Lu, Runsheng Wang, Ru Huang, NeurIPS2023
 - [Convolutions in Overdrive: Maliciously Secure Convolutions for MPC](https://petsymposium.org/popets/2023/popets-2023-0084.pdf), Marc Rivinius, Pascal Reisert, Sebastian Hasler, and Ralf Küsters, PETS2023
 - [HeLayers: A Tile Tensors Framework for Large Neural Networks on Encrypted Data](https://petsymposium.org/2023/paperlist.php), Ehud Aharoni, Allon Adir, Moran Baruch, Nir Drucker, Gilad Ezov, Ariel Farkash, Lev Greenberg, Ramy Masalha, Guy Moshkowich, Dov Murik, Hayim Shaul, and Omri Soceanu, PETS2023, [code](https://github.com/IBM/helayers)
 - [Multi-Party Replicated Secret Sharing over a Ring with Applications to Privacy-Preserving Machine Learning](https://petsymposium.org/popets/2023/popets-2023-0035.pdf), Alessandro Baccarini, Marina Blanton, Chen Yuan, PETS2023
