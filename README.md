@@ -27,7 +27,7 @@
 - [ShadowNet: A Secure and Efficient On-device Model Inference System for Convolutional Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179382),	Zhichuang Sun, Ruimin Sun, Changming Liu, Amrita Roy Chowdhury, Long Lu, Somesh Jha, SP2023, [code](https://github.com/RiS3-Lab/ShadowNet)
 - [Fusion: Efficient and Secure Inference Resilient to Malicious Servers](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s199_paper.pdf), 	Caiqin Dong, Jian Weng, Jia-Nan Liu, Yue Zhang, Yao Tong, Anjia Yang, Yudan Cheng, Shun Hu, NDSS2023
 - [REDsec: Running Encrypted Discretized Neural Networks in Seconds](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f34_paper.pdf), Lars Folkerts, Charles Gouert, Nektarios Georgios Tsoutsos, NDSS2023
-- [Secure Floating-Point Training](), Deevashwer Rathee, Anwesh Bhattacharya, Divya Gupta, Rahul Sharma, Dawn Song, USENIX2023
+- [Secure Floating-Point Training](https://www.usenix.org/conference/usenixsecurity23/presentation/rathee), Deevashwer Rathee, Anwesh Bhattacharya, Divya Gupta, Rahul Sharma, Dawn Song, USENIX2023
 - [Bicoptor: Two-round Secure Three-party Non-linear Computation without Preprocessing for Privacy-preserving Machine Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179449),	Lijing Zhou, Ziyu Wang, Hongrui Cui, Qingrui Song, Yu Yu, SP2023
 ### 2022
 - [Low-Complexity Deep Convolutional Neural Networks on Fully Homomorphic Encryption Using Multiplexed Parallel Convolutions](https://proceedings.mlr.press/v162/lee22e.html), Eunsang Lee, Joon-Woo Lee, Junghyun Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, Woosuk Choi, ICML2022
