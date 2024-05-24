@@ -14,6 +14,9 @@
 
 ### 2024
 
+- [Orca: FSS-based Secure Training and Inference with GPUs](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a063/1RjEaAAmAAE), Neha Jawalkar, Kanav Gupta, Arkaprava Basu, Nishanth Chandran, Divya Gupta, Rahul Sharma, SP2024
+- [BOLT: Privacy-Preserving, Accurate and Efficient Inference for Transformers](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a130/1Ub23O2X00U), Qi Pang, Jinhao Zhu, Helen Möllering, Wenting Zheng, Thomas Schneider, SP2024
+ 
 ### 2023
 - [HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption](https://proceedings.mlr.press/v202/lee23m.html), Seewoo Lee, Garam Lee, Jung Woo Kim, Junbum Shin, Mun-Kyu Lee, ICML2023, [code](https://github.com/cryptolabinc/hetal)
 - [Penguin: Parallel-Packed Homomorphic Encryption for Fast Graph Convolutional Network Inference](https://proceedings.neurips.cc//paper_files/paper/2023/hash/3cc685788a311fa35d8d41df93e288ca-Abstract-Conference.html), Ran Ran, Nuo Xu, Tao Liu, Wei Wang, Gang Quan, Wujie Wen, NeurIPS2023
