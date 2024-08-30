@@ -8,8 +8,6 @@
 - [Selective Network Linearization for Efficient Private Inference](https://arxiv.org/pdf/2202.02340.pdf), Minsu Cho, Ameya Joshi, Siddharth Garg, Brandon Reagen, Chinmay Hegde, ICML2022, [code](https://github.com/NYU-DICE-Lab/selective_network_linearization)
 - [CryptoNAS: Private Inference on a ReLU Budget](https://arxiv.org/pdf/2006.08733.pdf), Zahra Ghodsi, Akshaj Veldanda, Brandon Reagen, Siddharth Garg, NeurIPS2020, [code](https://github.com/zghodsi/CryptoNAS)
 - [DeepReDuce: ReLU Reduction for Fast Private Inference](https://proceedings.mlr.press/v139/jha21a/jha21a.pdf), Nandan Kumar Jha, Zahra Ghodsi, Siddharth Garg, and Brandon Reagen, ICML2021
-- 
-
 
 
 ### 2024
@@ -17,6 +15,10 @@
 - [Orca: FSS-based Secure Training and Inference with GPUs](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a063/1RjEaAAmAAE), Neha Jawalkar, Kanav Gupta, Arkaprava Basu, Nishanth Chandran, Divya Gupta, Rahul Sharma, SP2024
 - [BOLT: Privacy-Preserving, Accurate and Efficient Inference for Transformers](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a130/1Ub23O2X00U), Qi Pang, Jinhao Zhu, Helen Möllering, Wenting Zheng, Thomas Schneider, SP2024, [code](https://github.com/Clive2312/BOLT)
 - [Scalable Multi-Party Computation Protocols for Machine Learning in the Honest-Majority Setting](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-fengrun), Fengrun Liu, Xiang Xie, Yu Yu, USENIX2024, [code](https://github.com/f7ed/hmmpc-public)
+- [Fast and Private Inference of Deep Neural Networks by Co-designing Activation Functions](https://www.usenix.org/conference/usenixsecurity24/presentation/diaa), Abdulrahman Diaa, Lucas Fenaux, Thomas Humphries, Marian Dietz, Faezeh Ebrahimianghazani, Bailey Kacsmar, Xinda Li, Nils Lukas, Rasoul Akhavan Mahdavi, Simon Oya, Ehsan Amjadian, Florian Kerschbaum, USENIX2024, [code](https://github.com/LucasFenaux/PILLAR-ESPN)
+- [AutoFHE: Automated Adaption of CNNs for Efficient Evaluation over FHE](https://www.usenix.org/conference/usenixsecurity24/presentation/ao), Wei Ao, Vishnu Naresh Boddeti, USENIX2024
+
+
  
 ### 2023
 - [HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption](https://proceedings.mlr.press/v202/lee23m.html), Seewoo Lee, Garam Lee, Jung Woo Kim, Junbum Shin, Mun-Kyu Lee, ICML2023, [code](https://github.com/cryptolabinc/hetal)
