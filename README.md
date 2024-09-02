@@ -1,5 +1,6 @@
 # Awesome-Crypto-DNN
 
+- [Seesaw: Compensating for Nonlinear Reduction with Linear Computations for Private Inference], Fabing Li, Yuanhao Zhai, Shuangyu Cai, Mingyu Gao, ICML2024, [code](https://github.com/tsinghua-ideal/Seesaw)
 - [MPCViT: Searching for Accurate and Efficient MPC-Friendly Vision Transformer with Heterogeneous Attention](https://openaccess.thecvf.com/content/ICCV2023/papers/Zeng_MPCViT_Searching_for_Accurate_and_Efficient_MPC-Friendly_Vision_Transformer_with_ICCV_2023_paper.pdf), Wenxuan Zeng, Meng Li, Wenjie Xiong, Tong Tong, Wen-jie Lu, Jin Tan, Runsheng Wang, Ru Huang, ICCV2023
 - [Learning to Linearize Deep Neural Networks for Secure and Efficient Private Inference](https://openreview.net/forum?id=BGF9IeDfmlH), Souvik Kundu, Shunlin Lu, Yuke Zhang, Jacqueline Tiffany Liu, Peter A. Beerel, ICLR2023
 - [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://proceedings.neurips.cc//paper_files/paper/2023/hash/41bd71e7bf7f9fe68f1c936940fd06bd-Abstract-Conference.html), Hongwu Peng, Ran Ran, Yukui Luo, Jiahui Zhao, Shaoyi Huang, Kiran Thorat, Tong Geng, Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding, NeurIPS2023, [code](https://github.com/harveyp123/LinGCN-Neurips23)
@@ -9,7 +10,6 @@
 - [CryptoNAS: Private Inference on a ReLU Budget](https://arxiv.org/pdf/2006.08733.pdf), Zahra Ghodsi, Akshaj Veldanda, Brandon Reagen, Siddharth Garg, NeurIPS2020, [code](https://github.com/zghodsi/CryptoNAS)
 - [DeepReDuce: ReLU Reduction for Fast Private Inference](https://proceedings.mlr.press/v139/jha21a/jha21a.pdf), Nandan Kumar Jha, Zahra Ghodsi, Siddharth Garg, and Brandon Reagen, ICML2021
 
-
 ### 2024
 
 - [Orca: FSS-based Secure Training and Inference with GPUs](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a063/1RjEaAAmAAE), Neha Jawalkar, Kanav Gupta, Arkaprava Basu, Nishanth Chandran, Divya Gupta, Rahul Sharma, SP2024
@@ -17,8 +17,9 @@
 - [Scalable Multi-Party Computation Protocols for Machine Learning in the Honest-Majority Setting](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-fengrun), Fengrun Liu, Xiang Xie, Yu Yu, USENIX2024, [code](https://github.com/f7ed/hmmpc-public)
 - [Fast and Private Inference of Deep Neural Networks by Co-designing Activation Functions](https://www.usenix.org/conference/usenixsecurity24/presentation/diaa), Abdulrahman Diaa, Lucas Fenaux, Thomas Humphries, Marian Dietz, Faezeh Ebrahimianghazani, Bailey Kacsmar, Xinda Li, Nils Lukas, Rasoul Akhavan Mahdavi, Simon Oya, Ehsan Amjadian, Florian Kerschbaum, USENIX2024, [code](https://github.com/LucasFenaux/PILLAR-ESPN)
 - [AutoFHE: Automated Adaption of CNNs for Efficient Evaluation over FHE](https://www.usenix.org/conference/usenixsecurity24/presentation/ao), Wei Ao, Vishnu Naresh Boddeti, USENIX2024
-
-
+- [Privacy-Preserving Embedding via Look-up Table Evaluation with Fully Homomorphic Encryption](https://proceedings.mlr.press/v235/kim24ab.html), Jae-Yun Kim, Saerom Park, Joohee Lee, Jung Hee Cheon, ICML2024
+- [Ditto: Quantization-aware Secure Inference of Transformers upon MPC](https://proceedings.mlr.press/v235/wu24d.html), Haoqi Wu, Wenjing Fang, Yancheng Zheng, Junming Ma, Jin Tan, Lei Wang, ICML2024, [code](https://github.com/secretflow/spu)
+- [Converting Transformers to Polynomial Form for Secure Inference Over Homomorphic Encryption](https://proceedings.mlr.press/v235/zimerman24a.html), Itamar Zimerman, Moran Baruch, Nir Drucker, Gilad Ezov, Omri Soceanu, Lior Wolf, ICML2024, [code](https://github.com/IBM/PolyTransformer)
  
 ### 2023
 - [HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption](https://proceedings.mlr.press/v202/lee23m.html), Seewoo Lee, Garam Lee, Jung Woo Kim, Junbum Shin, Mun-Kyu Lee, ICML2023, [code](https://github.com/cryptolabinc/hetal)
