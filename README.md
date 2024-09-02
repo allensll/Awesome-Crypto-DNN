@@ -1,6 +1,6 @@
 # Awesome-Crypto-DNN
 
-- [Seesaw: Compensating for Nonlinear Reduction with Linear Computations for Private Inference], Fabing Li, Yuanhao Zhai, Shuangyu Cai, Mingyu Gao, ICML2024, [code](https://github.com/tsinghua-ideal/Seesaw)
+- [Seesaw: Compensating for Nonlinear Reduction with Linear Computations for Private Inference](https://proceedings.mlr.press/v235/li24cj.html), Fabing Li, Yuanhao Zhai, Shuangyu Cai, Mingyu Gao, ICML2024, [code](https://github.com/tsinghua-ideal/Seesaw)
 - [MPCViT: Searching for Accurate and Efficient MPC-Friendly Vision Transformer with Heterogeneous Attention](https://openaccess.thecvf.com/content/ICCV2023/papers/Zeng_MPCViT_Searching_for_Accurate_and_Efficient_MPC-Friendly_Vision_Transformer_with_ICCV_2023_paper.pdf), Wenxuan Zeng, Meng Li, Wenjie Xiong, Tong Tong, Wen-jie Lu, Jin Tan, Runsheng Wang, Ru Huang, ICCV2023
 - [Learning to Linearize Deep Neural Networks for Secure and Efficient Private Inference](https://openreview.net/forum?id=BGF9IeDfmlH), Souvik Kundu, Shunlin Lu, Yuke Zhang, Jacqueline Tiffany Liu, Peter A. Beerel, ICLR2023
 - [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://proceedings.neurips.cc//paper_files/paper/2023/hash/41bd71e7bf7f9fe68f1c936940fd06bd-Abstract-Conference.html), Hongwu Peng, Ran Ran, Yukui Luo, Jiahui Zhao, Shaoyi Huang, Kiran Thorat, Tong Geng, Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding, NeurIPS2023, [code](https://github.com/harveyp123/LinGCN-Neurips23)
