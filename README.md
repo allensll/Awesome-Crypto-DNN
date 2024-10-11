@@ -20,7 +20,7 @@
 - [Privacy-Preserving Embedding via Look-up Table Evaluation with Fully Homomorphic Encryption](https://proceedings.mlr.press/v235/kim24ab.html), Jae-Yun Kim, Saerom Park, Joohee Lee, Jung Hee Cheon, ICML2024
 - [Ditto: Quantization-aware Secure Inference of Transformers upon MPC](https://proceedings.mlr.press/v235/wu24d.html), Haoqi Wu, Wenjing Fang, Yancheng Zheng, Junming Ma, Jin Tan, Lei Wang, ICML2024, [code](https://github.com/secretflow/spu)
 - [Converting Transformers to Polynomial Form for Secure Inference Over Homomorphic Encryption](https://proceedings.mlr.press/v235/zimerman24a.html), Itamar Zimerman, Moran Baruch, Nir Drucker, Gilad Ezov, Omri Soceanu, Lior Wolf, ICML2024, [code](https://github.com/IBM/PolyTransformer)
-- [CipherDM: Secure Three-Party Inference for Diffusion Model Sampling](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08996.pdf), Xin Zhao · Xiaojun Chen · Xudong Chen · He Li · Tingyu Fan · Zhendong Zhao, ECCV2024, [code](https://github.com/Zhaoxinxinzi/CipherDM)
+- [CipherDM: Secure Three-Party Inference for Diffusion Model Sampling](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08996.pdf), Xin Zhao, Xiaojun Chen, Xudong Chen, He Li, Tingyu Fan, Zhendong Zhao, ECCV2024, [code](https://github.com/Zhaoxinxinzi/CipherDM)
  
 ### 2023
 - [HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption](https://proceedings.mlr.press/v202/lee23m.html), Seewoo Lee, Garam Lee, Jung Woo Kim, Junbum Shin, Mun-Kyu Lee, ICML2023, [code](https://github.com/cryptolabinc/hetal)
