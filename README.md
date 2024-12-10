@@ -22,6 +22,7 @@
 - [Converting Transformers to Polynomial Form for Secure Inference Over Homomorphic Encryption](https://proceedings.mlr.press/v235/zimerman24a.html), Itamar Zimerman, Moran Baruch, Nir Drucker, Gilad Ezov, Omri Soceanu, Lior Wolf, ICML2024, [code](https://github.com/IBM/PolyTransformer)
 - [CipherDM: Secure Three-Party Inference for Diffusion Model Sampling](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08996.pdf), Xin Zhao, Xiaojun Chen, Xudong Chen, He Li, Tingyu Fan, Zhendong Zhao, ECCV2024, [code](https://github.com/Zhaoxinxinzi/CipherDM)
 - [Sigma: Secure GPT Inference with Function Secret Sharing](https://eprint.iacr.org/2023/1269.pdf), Kanav Gupta, Neha Jawalkar, Ananta Mukherjee, Nishanth Chandran, Divya Gupta, Ashish Panwar, Rahul Sharma, PETS2024, [code](https://github.com/mpc-msri/EzPC)
+- [NeuJeans: Private Neural Network Inference with Joint Optimization of Convolution and FHE Bootstrapping](https://arxiv.org/pdf/2312.04356), Jae Hyung Ju, Jaiyoung Park, Jongmin Kim, Minsik Kang, Donghwan Kim, Jung Hee Cheon, Jung Ho Ahn, CCS2024
  
 ### 2023
 - [HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption](https://proceedings.mlr.press/v202/lee23m.html), Seewoo Lee, Garam Lee, Jung Woo Kim, Junbum Shin, Mun-Kyu Lee, ICML2023, [code](https://github.com/cryptolabinc/hetal)
