@@ -14,6 +14,7 @@
 
 - [Orca: FSS-based Secure Training and Inference with GPUs](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a063/1RjEaAAmAAE), Neha Jawalkar, Kanav Gupta, Arkaprava Basu, Nishanth Chandran, Divya Gupta, Rahul Sharma, SP2024
 - [BOLT: Privacy-Preserving, Accurate and Efficient Inference for Transformers](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a130/1Ub23O2X00U), Qi Pang, Jinhao Zhu, Helen Möllering, Wenting Zheng, Thomas Schneider, SP2024, [code](https://github.com/Clive2312/BOLT)
+- [Pencil: Private and Extensible Collaborative Learning without the Non-Colluding Assumption](https://www.ndss-symposium.org/wp-content/uploads/2024-512-paper.pdf), Xuanqi Liu, Zhuotao Liu, Qi Li, Ke Xu, Mingwei Xu, NDSS2024, [code](https://github.com/lightbulb128/Pencil)
 - [Scalable Multi-Party Computation Protocols for Machine Learning in the Honest-Majority Setting](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-fengrun), Fengrun Liu, Xiang Xie, Yu Yu, USENIX2024, [code](https://github.com/f7ed/hmmpc-public)
 - [Fast and Private Inference of Deep Neural Networks by Co-designing Activation Functions](https://www.usenix.org/conference/usenixsecurity24/presentation/diaa), Abdulrahman Diaa, Lucas Fenaux, Thomas Humphries, Marian Dietz, Faezeh Ebrahimianghazani, Bailey Kacsmar, Xinda Li, Nils Lukas, Rasoul Akhavan Mahdavi, Simon Oya, Ehsan Amjadian, Florian Kerschbaum, USENIX2024, [code](https://github.com/LucasFenaux/PILLAR-ESPN)
 - [AutoFHE: Automated Adaption of CNNs for Efficient Evaluation over FHE](https://www.usenix.org/conference/usenixsecurity24/presentation/ao), Wei Ao, Vishnu Naresh Boddeti, USENIX2024, [code](https://github.com/human-analysis/AutoFHE)
@@ -23,6 +24,10 @@
 - [CipherDM: Secure Three-Party Inference for Diffusion Model Sampling](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08996.pdf), Xin Zhao, Xiaojun Chen, Xudong Chen, He Li, Tingyu Fan, Zhendong Zhao, ECCV2024, [code](https://github.com/Zhaoxinxinzi/CipherDM)
 - [Sigma: Secure GPT Inference with Function Secret Sharing](https://eprint.iacr.org/2023/1269.pdf), Kanav Gupta, Neha Jawalkar, Ananta Mukherjee, Nishanth Chandran, Divya Gupta, Ashish Panwar, Rahul Sharma, PETS2024, [code](https://github.com/mpc-msri/EzPC)
 - [NeuJeans: Private Neural Network Inference with Joint Optimization of Convolution and FHE Bootstrapping](https://arxiv.org/pdf/2312.04356), Jae Hyung Ju, Jaiyoung Park, Jongmin Kim, Minsik Kang, Donghwan Kim, Jung Hee Cheon, Jung Ho Ahn, CCS2024
+- [Rhombus: Fast Homomorphic Matrix-Vector Multiplication for Secure Two-Party Inference](https://dl.acm.org/doi/pdf/10.1145/3658644.3690281), Jiaxing He, Kang Yang, Guofeng Tang, Zhangjie Huang, Li Lin, Changzheng Wei, Ying Yan, Wei Wang, CCS2024
+- [Nimbus: Secure and Efficient Two-Party Inference for Transformers](https://papers.nips.cc/paper_files/paper/2024/file/264a9b3ce46abdf572dcfe0401141989-Paper-Conference.pdf), Zhengyi Li, Kang Yang, Jin Tan, Wen-jie Lu, Haoqi Wu, Xiao Wang, Yu Yu, Derun Zhao, Yancheng Zheng, Minyi Guo, Jingwen Leng, NeurIPS2024, [code](https://github.com/secretflow/spu/tree/nimbus/examples/python/ml/Nimbus)
+- [SecFormer: Fast and Accurate Privacy-Preserving Inference for Transformer Models via SMPC](https://aclanthology.org/2024.findings-acl.790), Jinglong Luo, Yehong Zhang, Zhuo Zhang, Jiaqi Zhang, Xin Mu, Hui Wang, Yue Yu, Zenglin Xu, ACL Findings2024, [code](https://github.com/jinglong696/SecFormer)
+
  
 ### 2023
 - [HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption](https://proceedings.mlr.press/v202/lee23m.html), Seewoo Lee, Garam Lee, Jung Woo Kim, Junbum Shin, Mun-Kyu Lee, ICML2023, [code](https://github.com/cryptolabinc/hetal)
@@ -38,6 +43,8 @@
 - [REDsec: Running Encrypted Discretized Neural Networks in Seconds](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f34_paper.pdf), Lars Folkerts, Charles Gouert, Nektarios Georgios Tsoutsos, NDSS2023
 - [Secure Floating-Point Training](https://www.usenix.org/conference/usenixsecurity23/presentation/rathee), Deevashwer Rathee, Anwesh Bhattacharya, Divya Gupta, Rahul Sharma, Dawn Song, USENIX2023
 - [Bicoptor: Two-round Secure Three-party Non-linear Computation without Preprocessing for Privacy-preserving Machine Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179449),	Lijing Zhou, Ziyu Wang, Hongrui Cui, Qingrui Song, Yu Yu, SP2023
+- [Primer: Fast Private Transformer Inference on Encrypted Data]( https://ieeexplore.ieee.org/abstract/document/10247719), Mengxin Zheng, Qian Lou, Lei Jiang, DAC2023
+  
 ### 2022
 - [Low-Complexity Deep Convolutional Neural Networks on Fully Homomorphic Encryption Using Multiplexed Parallel Convolutions](https://proceedings.mlr.press/v162/lee22e.html), Eunsang Lee, Joon-Woo Lee, Junghyun Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, Woosuk Choi, ICML2022, [code](https://github.com/snu-ccl/FHE-MP-CNN)
 - [Sphinx: Enabling Privacy-Preserving Online Learning over the Cloud](https://ieeexplore.ieee.org/document/9833648), Han Tian, Chaoliang Zeng, Zhenghang Ren, Di Chai, Junxue ZHANG, Kai Chen, Qiang Yang, SP2022
@@ -50,7 +57,7 @@
 - [Private and Reliable Neural Network Inference](https://dl.acm.org/doi/pdf/10.1145/3548606.3560709),	Nikola Jovanovic, Marc Fischer, Samuel Steffen, Martin T. Vechev, CCS2022
 - [Tetrad: Actively Secure 4PC for Secure Training and Inference](https://www.ndss-symposium.org/ndss-paper/auto-draft-202/), Nishat Koti, Arpita Patra, Rahul Rachuri, Ajith Suresh, NDSS2022
 - [Piranha: A GPU Platform for Secure Computation](https://www.usenix.org/conference/usenixsecurity22/presentation/watson), Jean-Luc Watson, Sameer Wagh, Raluca Ada Popa, USENIX2022
-- [Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference](https://www.usenix.org/conference/usenixsecurity22/presentation/huang-zhicong),	Zhicong Huang, Wen-jie Lu, Cheng Hong, Jiansheng Ding, USENIX2022
+- [Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference](https://www.usenix.org/conference/usenixsecurity22/presentation/huang-zhicong),	Zhicong Huang, Wen-jie Lu, Cheng Hong, Jiansheng Ding, USENIX2022, [code](https://github.com/Alibaba-Gemini-Lab/OpenCheetah)
 ### 2021
 - [SAFENet: A Secure, Accurate and Fast Neural Network Inference](https://openreview.net/forum?id=Cz3dbFm5u-), Qian Lou, Yilin Shen, Hongxia Jin, Lei Jiang, ICLR2021
 - [CRYPTOGRU: Low Latency Privacy-Preserving Text Analysis With GRU](https://aclanthology.org/2021.emnlp-main.156/), Bo Feng, Qian Lou, Lei Jiang, Geoffrey Fox, EMNLP2021
