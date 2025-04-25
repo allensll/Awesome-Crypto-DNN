@@ -27,6 +27,7 @@
 - [Rhombus: Fast Homomorphic Matrix-Vector Multiplication for Secure Two-Party Inference](https://dl.acm.org/doi/pdf/10.1145/3658644.3690281), Jiaxing He, Kang Yang, Guofeng Tang, Zhangjie Huang, Li Lin, Changzheng Wei, Ying Yan, Wei Wang, CCS2024
 - [Nimbus: Secure and Efficient Two-Party Inference for Transformers](https://papers.nips.cc/paper_files/paper/2024/file/264a9b3ce46abdf572dcfe0401141989-Paper-Conference.pdf), Zhengyi Li, Kang Yang, Jin Tan, Wen-jie Lu, Haoqi Wu, Xiao Wang, Yu Yu, Derun Zhao, Yancheng Zheng, Minyi Guo, Jingwen Leng, NeurIPS2024, [code](https://github.com/secretflow/spu/tree/nimbus/examples/python/ml/Nimbus)
 - [SecFormer: Fast and Accurate Privacy-Preserving Inference for Transformer Models via SMPC](https://aclanthology.org/2024.findings-acl.790), Jinglong Luo, Yehong Zhang, Zhuo Zhang, Jiaqi Zhang, Xin Mu, Hui Wang, Yue Yu, Zenglin Xu, ACL Findings2024, [code](https://github.com/jinglong696/SecFormer)
+- [PIPO: Privacy-Preserving Convolutional Neural Network Inference with Plaintext Operations](https://ieeexplore.ieee.org/abstract/document/10630913), Tian Zhou, Lixin Gao, ICDCS2024, [code](https://github.com/yxtj/PIPO)
 
  
 ### 2023
