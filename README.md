@@ -10,6 +10,11 @@
 - [CryptoNAS: Private Inference on a ReLU Budget](https://arxiv.org/pdf/2006.08733.pdf), Zahra Ghodsi, Akshaj Veldanda, Brandon Reagen, Siddharth Garg, NeurIPS2020, [code](https://github.com/zghodsi/CryptoNAS)
 - [DeepReDuce: ReLU Reduction for Fast Private Inference](https://proceedings.mlr.press/v139/jha21a/jha21a.pdf), Nandan Kumar Jha, Zahra Ghodsi, Siddharth Garg, and Brandon Reagen, ICML2021
 
+### 2025
+
+- [Powerformer: Efficient and High-Accuracy Privacy-Preserving Language Model with Homomorphic Encryption](https://aclanthology.org/2025.acl-long.543.pdf), Dongjin Park1, Eunsang Lee, Joon-Woo Lee, ACL2025, [code](https://github.com/thrudgelmir/Powerformer)
+- 
+
 ### 2024
 
 - [Orca: FSS-based Secure Training and Inference with GPUs](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a063/1RjEaAAmAAE), Neha Jawalkar, Kanav Gupta, Arkaprava Basu, Nishanth Chandran, Divya Gupta, Rahul Sharma, SP2024
