@@ -14,8 +14,8 @@
 
 - [Powerformer: Efficient and High-Accuracy Privacy-Preserving Language Model with Homomorphic Encryption](https://aclanthology.org/2025.acl-long.543.pdf), Dongjin Park, Eunsang Lee, Joon-Woo Lee, ACL2025, [code](https://github.com/thrudgelmir/Powerformer)
 - [Secure Transformer Inference Made Non-interactive](https://www.ndss-symposium.org/wp-content/uploads/2025-868-paper.pdf),	Jiawen Zhang, Xinpeng Yang, Lipeng He, Kejia Chen, Wen-jie Lu, Yinghao Wang, Xiaoyang Hou, Jian Liu, Kui Ren, Xiaohu Yang, NDSS2025, [code](https://github.com/zju-abclab/NEXUS)
-- [SHAFT: Secure, Handy, Accurate, and Fast Transformer Inference](https://www.ndss-symposium.org/wp-content/uploads/2025-2287-paper.pdf), Andes Y. L. Kei, Sherman S. M. Chow, [code](https://github.com/andeskyl/SHAFT)
-- [SIGuard: Guarding Secure Inference with Post Data Privacy](https://www.ndss-symposium.org/wp-content/uploads/2025-168-paper.pdf), Xinqian Wang, Xiaoning Liu, Shangqi Lai, Xun Yi, Xingliang Yuan, NDSS2025
+- [SHAFT: Secure, Handy, Accurate, and Fast Transformer Inference](https://www.ndss-symposium.org/wp-content/uploads/2025-2287-paper.pdf), Andes Y. L. Kei, Sherman S. M. Chow, NDSS2025, [code](https://github.com/andeskyl/SHAFT)
+- [SIGuard: Guarding Secure Inference with Post Data Privacy](https://www.ndss-symposium.org/wp-content/uploads/2025-168-paper.pdf), Xinqian Wang, Xiaoning Liu, Shangqi Lai, Xun Yi, Xingliang Yuan, NDSS2025, [code](https://github.com/Wangxinqian/SIGuard-secure-MIA-defensev)
 
 ### 2024
 
