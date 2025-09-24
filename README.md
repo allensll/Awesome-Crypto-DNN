@@ -16,6 +16,7 @@
 - [Secure Transformer Inference Made Non-interactive](https://www.ndss-symposium.org/wp-content/uploads/2025-868-paper.pdf),	Jiawen Zhang, Xinpeng Yang, Lipeng He, Kejia Chen, Wen-jie Lu, Yinghao Wang, Xiaoyang Hou, Jian Liu, Kui Ren, Xiaohu Yang, NDSS2025, [code](https://github.com/zju-abclab/NEXUS)
 - [SHAFT: Secure, Handy, Accurate, and Fast Transformer Inference](https://www.ndss-symposium.org/wp-content/uploads/2025-2287-paper.pdf), Andes Y. L. Kei, Sherman S. M. Chow, NDSS2025, [code](https://github.com/andeskyl/SHAFT)
 - [EncryptedLLM: Privacy-Preserving Large Language Model Inference via GPU-Accelerated Fully Homomorphic Encryption](https://openreview.net/pdf?id=PGNff6H1TV), Leo de Castro, Daniel Escudero, Daniel_Escudero, Adya Agrawal, Antigoni Polychroniadou, Manuela Veloso, ICML2025
+- [CryptGNN: Enabling Secure Inference for Graph Neural Networks](), Pritam Sen, Yao Ma, Cristian Borcea, CCS2025
 
 ### 2024
 
