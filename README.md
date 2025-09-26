@@ -17,6 +17,10 @@
 - [SHAFT: Secure, Handy, Accurate, and Fast Transformer Inference](https://www.ndss-symposium.org/wp-content/uploads/2025-2287-paper.pdf), Andes Y. L. Kei, Sherman S. M. Chow, NDSS2025, [code](https://github.com/andeskyl/SHAFT)
 - [EncryptedLLM: Privacy-Preserving Large Language Model Inference via GPU-Accelerated Fully Homomorphic Encryption](https://openreview.net/pdf?id=PGNff6H1TV), Leo de Castro, Daniel Escudero, Daniel_Escudero, Adya Agrawal, Antigoni Polychroniadou, Manuela Veloso, ICML2025
 - [CryptGNN: Enabling Secure Inference for Graph Neural Networks](), Pritam Sen, Yao Ma, Cristian Borcea, CCS2025
+- [CipherPrune: Efficient and Scalable Private Transformer Inference](https://openreview.net/pdf?id=mUMvr33FTu),Yancheng Zhang, Yancheng Zhang, Jiaqi Xue, Mengxin Zheng, Mimi Xie, Mingzhe Zhang, Lei Jiang, Qian Lou, ICLR2025, [code](https://github.com/UCF-Lou-Lab-PET/cipher-prune-inference)
+- [SelectFormer in Data Markets: Privacy-Preserving and Efficient Data Selection for Transformers with Multi-Party Computation](https://openreview.net/pdf?id=2cF3f9t31y), Xu Ouyang, Felix Xiaozhu Lin, Yangfeng Ji, ICLR2025
+- [DCT-CryptoNets: Scaling Private Inference in the Frequency Domain](https://openreview.net/pdf?id=lPJUQsSIxm), Arjun Roy, Kaushik Roy, ICLR2025, [code](https://github.com/ar-roy/dct-cryptonets)
+- [Encryption-Friendly LLM Architecture](), Donghwan Rho, Taeseong Kim, Minje Park, Jung Woo Kim, Hyunsik Chae, Ernest K. Ryu, Jung Hee Cheon, ICLR2025, [code](https://github.com/Donghwan-Rho/Encryption-friendly_LLM_Architecture)
 
 ### 2024
 
