@@ -20,6 +20,7 @@
 - [WPC: Weight Plaintext Compression for CNN Inference based on RNS-CKKS](), CCS2025
 - [Mosformer: Maliciously Secure Three-Party Inference Framework
 for Large Transformers](https://eprint.iacr.org/2025/1510.pdf), Ke Cheng, Yuheng Xia, Anxiao Song, Jiaxuan Fu, Wenjie Qu, Yulong Shen, Jiaheng Zhang, CCS2025, [code](https://github.com/XidianNSS/Mosformer)
+- [THOR: Secure Transformer Inference with Homomorphic Encryption](https://eprint.iacr.org/2024/1881.pdf), Jungho Moon, Dongwoo Yoo, Xiaoqian Jiang, Miran Kim, CCS2025
 - [CipherPrune: Efficient and Scalable Private Transformer Inference](https://openreview.net/pdf?id=mUMvr33FTu),Yancheng Zhang, Yancheng Zhang, Jiaqi Xue, Mengxin Zheng, Mimi Xie, Mingzhe Zhang, Lei Jiang, Qian Lou, ICLR2025, [code](https://github.com/UCF-Lou-Lab-PET/cipher-prune-inference)
 - [SelectFormer in Data Markets: Privacy-Preserving and Efficient Data Selection for Transformers with Multi-Party Computation](https://openreview.net/pdf?id=2cF3f9t31y), Xu Ouyang, Felix Xiaozhu Lin, Yangfeng Ji, ICLR2025
 - [DCT-CryptoNets: Scaling Private Inference in the Frequency Domain](https://openreview.net/pdf?id=lPJUQsSIxm), Arjun Roy, Kaushik Roy, ICLR2025, [code](https://github.com/ar-roy/dct-cryptonets)
