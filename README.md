@@ -25,6 +25,7 @@ for Large Transformers](https://eprint.iacr.org/2025/1510.pdf), Ke Cheng, Yuheng
 - [SelectFormer in Data Markets: Privacy-Preserving and Efficient Data Selection for Transformers with Multi-Party Computation](https://openreview.net/pdf?id=2cF3f9t31y), Xu Ouyang, Felix Xiaozhu Lin, Yangfeng Ji, ICLR2025
 - [DCT-CryptoNets: Scaling Private Inference in the Frequency Domain](https://openreview.net/pdf?id=lPJUQsSIxm), Arjun Roy, Kaushik Roy, ICLR2025, [code](https://github.com/ar-roy/dct-cryptonets)
 - [Encryption-Friendly LLM Architecture](), Donghwan Rho, Taeseong Kim, Minje Park, Jung Woo Kim, Hyunsik Chae, Ernest K. Ryu, Jung Hee Cheon, ICLR2025, [code](https://github.com/Donghwan-Rho/Encryption-friendly_LLM_Architecture)
+- [LOHEN: Layer-wise Optimizations for Neural Network Inferences over Encrypted Data with High Performance or Accuracy](https://www.usenix.org/conference/usenixsecurity25/presentation/nam-lohen), Kevin Nam, Youyeon Joo, Dongju Lee, Seungjin Ha, Hyunyoung Oh, Gachon University; Hyungon Moon, Yunheung Paek, USENIX2025, [code](https://github.com/SNUSOR-PECT/LOHEN_Public)
 
 ### 2024
 
