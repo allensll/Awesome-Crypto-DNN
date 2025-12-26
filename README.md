@@ -1,5 +1,6 @@
 # Awesome-Crypto-DNN
 
+- [MPCache: MPC-Friendly KV Cache Eviction for Efficient Private LLM Inference](https://openreview.net/forum?id=QliOktBcy3), Wenxuan Zeng, Wenxuan_Zeng, Ye Dong, Jinjin Zhou, Junming Ma, Jin Tan, Runsheng Wang, Meng Li, NeurIPS2025, [code](https://github.com/zwxandy/MPCache)
 - [Seesaw: Compensating for Nonlinear Reduction with Linear Computations for Private Inference](https://proceedings.mlr.press/v235/li24cj.html), Fabing Li, Yuanhao Zhai, Shuangyu Cai, Mingyu Gao, ICML2024, [code](https://github.com/tsinghua-ideal/Seesaw)
 - [MPCViT: Searching for Accurate and Efficient MPC-Friendly Vision Transformer with Heterogeneous Attention](https://openaccess.thecvf.com/content/ICCV2023/papers/Zeng_MPCViT_Searching_for_Accurate_and_Efficient_MPC-Friendly_Vision_Transformer_with_ICCV_2023_paper.pdf), Wenxuan Zeng, Meng Li, Wenjie Xiong, Tong Tong, Wen-jie Lu, Jin Tan, Runsheng Wang, Ru Huang, ICCV2023
 - [Learning to Linearize Deep Neural Networks for Secure and Efficient Private Inference](https://openreview.net/forum?id=BGF9IeDfmlH), Souvik Kundu, Shunlin Lu, Yuke Zhang, Jacqueline Tiffany Liu, Peter A. Beerel, ICLR2023
