@@ -29,6 +29,7 @@ for Large Transformers](https://eprint.iacr.org/2025/1510.pdf), Ke Cheng, Yuheng
 - [LOHEN: Layer-wise Optimizations for Neural Network Inferences over Encrypted Data with High Performance or Accuracy](https://www.usenix.org/conference/usenixsecurity25/presentation/nam-lohen), Kevin Nam, Youyeon Joo, Dongju Lee, Seungjin Ha, Hyunyoung Oh, Gachon University; Hyungon Moon, Yunheung Paek, USENIX2025, [code](https://github.com/SNUSOR-PECT/LOHEN_Public)
 - [Breaking the Layer Barrier: Remodeling Private Transformer Inference with Hybrid CKKS and MPC](https://www.usenix.org/system/files/usenixsecurity25-xu-tianshi.pdf), Tianshi Xu, Wen-jie Lu, Jiangrui Yu, Yi Chen, Chenqi Lin, Runsheng Wang, Meng Li, USENIX2025, [code](https://github.com/csu-orange/blb)
 - [SLOTHE: Lazy Approximation of Non-Arithmetic Neural Network Functions over Encrypted Data](https://www.usenix.org/system/files/usenixsecurity25-nam-slothe.pdf), Kevin Nam, Youyeon Joo, Seungjin Ha, Yunheung Paek, USENIX2025, [code](https://github.com/SNUSOR-PECT/SLOTHE)
+- [CryptoMoE: Privacy-Preserving and Scalable Mixture of Experts Inference via Balanced Expert Routing](https://openreview.net/pdf?id=8pEqukyGrj), Yifan Zhou, Tianshi Xu, Jue Hong, Ye Wu, Meng Li, NeurIPS2025, [code](https://github.com/PKU-SEC-Lab/CryptoMoE)
 
 ### 2024
 
